@@ -1,5 +1,4 @@
 import cv2
-from ultralytics import YOLO
 import argparse
 from image_tools_api import ImageProcessor
 
